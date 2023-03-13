@@ -27,6 +27,9 @@ class Adapter(val array:ArrayList<Myclass>):RecyclerView.Adapter<Adapter.MyViewH
         holder.surName.text = array[position].suname
     }
 
+
+
+
     override fun getItemCount(): Int {
         return array.size
 
