@@ -30,6 +30,9 @@ fun getList():ArrayList<Myclass>{
     }
 
 
+
+
+
 return list
 }
 
